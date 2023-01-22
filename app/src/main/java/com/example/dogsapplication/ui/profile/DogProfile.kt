@@ -59,7 +59,7 @@ fun DogProfile(
 
 @Preview
 @Composable
-fun ParrotProfilePreview() {
+fun DogProfilePreview() {
     val dog = Dog(
         id = "1",
         name = "Baksic",
